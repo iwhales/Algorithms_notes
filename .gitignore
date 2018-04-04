@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# 自定义
+*.pdf
+.idea/

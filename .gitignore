@@ -103,5 +103,7 @@ ENV/
 # 自定义
 *.pdf
 *.zip
+*.7z
 .idea/
+*.py
 

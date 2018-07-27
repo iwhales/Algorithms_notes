@@ -12,6 +12,6 @@
 
 工具：
 
-- [Python Tutor](http://pythontutor.com/) -- 逐步图解 Python 代码
+- [Python Tutor](http://pythontutor.com/) -- 可视化 Python 代码的执行过程
 
 
